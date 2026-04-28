@@ -11,7 +11,7 @@ I open issues and PRs on inactive GitHub repositories.
 ## What I don't do
 
 - Act without human approval (every action is manually triggered)
-- Spam (one action per maintainer per N days)
+- Spam — at most one action per maintainer per N days
 - Engage if a repo opts out via `.no-agents`, a `no-llm-contributions` topic, or a CONTRIBUTING.md note against AI contributions
 
 ## How to opt out
